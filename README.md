@@ -1,2 +1,2 @@
 # Ecole42-getnextline
- Read to text file line by line
+Repeated calls to your get_next_line() function should let you read (with BUFFERSIZE = n) the text file  pointed to by the file descriptor, one line at a time.
